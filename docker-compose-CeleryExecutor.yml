@@ -1,0 +1,81 @@
+version: '3.2'
+
+services:
+    redis:
+        image: 'redis:5.0.5'
+
+    postgres:
+        image: 'postgres:9.6'
+        env_file:
+            - airflow-variables.env
+        ports:
+            - "5432"
+
+    webserver:
+        image: 'ncbi/gaptools:latest'
+        restart: always
+        depends_on:
+            - postgres
+            - redis
+        env_file:
+            - airflow-variables.env
+        environment:
+            - STUDY=${STUDY}
+            - MANIFEST=${MANIFEST}
+        ports:
+            - "8080:8080"
+        command: webserver
+        volumes:
+            - type: bind
+              source: ${INPUT_VOL}
+              target: /usr/local/airflow/input_files
+            - type: bind
+              source: ${OUTPUT_VOL}
+              target: /usr/local/airflow/output_files
+            - type: bind
+              source: ${MANIFEST}
+              target: /usr/local/airflow/manifest_file
+        healthcheck:
+            test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+            interval: 30s
+            timeout: 30s
+            retries: 5
+
+    flower:
+        image: 'ncbi/gaptools:latest'
+        restart: always
+        depends_on:
+            - redis
+        env_file:
+            - airflow-variables.env
+        ports:
+            - "5555"
+        command: flower
+
+    scheduler:
+        image: 'ncbi/gaptools:latest'
+        restart: always
+        depends_on:
+            - webserver
+        env_file:
+            - airflow-variables.env
+        command: scheduler
+
+    worker:
+        image: 'ncbi/gaptools:latest'
+        restart: always
+        depends_on:
+            - scheduler
+        volumes:
+            - type: bind
+              source: ${INPUT_VOL}
+              target: /usr/local/airflow/input_files
+            - type: bind
+              source: ${OUTPUT_VOL}
+              target: /usr/local/airflow/output_files
+            - type: bind
+              source: ${MANIFEST} 
+              target: /usr/local/airflow/manifest_file
+        env_file:
+            - airflow-variables.env
+        command: worker

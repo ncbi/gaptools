@@ -1,0 +1,14 @@
+{
+  "NAME": "1000 Genomes Public Study",
+  "ID": "1000_Genomes",
+  "FILES": [
+    {
+      "name": "1000_Genomes_SC.txt",
+      "type": "subject_consent_file"
+    },
+    {
+      "name": "1000_Genmoes_SSM.txt",
+      "type": "subject_sample_mapping_file"
+    }
+  ]
+}
