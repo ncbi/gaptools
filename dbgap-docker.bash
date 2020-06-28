@@ -4,17 +4,15 @@
 # HEADER
 #================================================================
 #% SYNOPSIS
-#+    ${SCRIPT_NAME} [-hv] [-i, --input [input directory]] 
+#+    ${SCRIPT_NAME} [-h] [-i, --input [input directory]]
 #+                     [-o, --output [output directory]] 
 #+                     [-m, --manifest [manifest file]]
-#+                     [-s, --study [study]] 
 #+                     [up|down]
-#==  [-t [local|nfs]]  to be used later
 #+
 #% DESCRIPTION
-#%    This script runs the NIH NCBI tool to validate data
-#%    submitted to the dbGaP database. It loads a docker-compose
-#%    file and runs several docker containers.
+#%    This script runs GapTools to validate data files
+#%    to be submitted to dbGaP. It loads a docker-compose
+#%    file and runs required docker containers.
 #%
 #%
 #% OPTIONS
@@ -22,12 +20,10 @@
 #%                                  data files to be validated.
 #%    -o, --output                  Output directory
 #%    -m, --manifest                Manifest file with metadata
-#%    -s, --study                   Study name
 #%    -h, --help                    Print this help
-#%    -v, --version                 Print script information
 #%
 #% EXAMPLES
-#%    ${SCRIPT_NAME} -i ./input_files -o ./output_files -s user_study -m ./input_files/user_study/metadata.json up
+#%    ${SCRIPT_NAME} -i ./input_files/1000_Genomes_Study/ -o ./output_files/1000_Genomes_Study/ -m ./input_files/1000_Genomes_Study/metadata.json up
 #%    ${SCRIPT_NAME} down
 #%
 #%
@@ -36,18 +32,6 @@
 #%    docker-compose
 #%
 #%
-#================================================================
-#- IMPLEMENTATION
-#-    version         ${SCRIPT_NAME} 0.0.1
-#-    author          Dale Conklin
-#-    copyright       Copyright (c) 2020
-#-    license         GNU General Public License
-#-
-#-
-#================================================================
-#  HISTORY
-#     2020/05/11 : dconklin : Script creation
-# 
 #================================================================
 # END_OF_HEADER
 #================================================================
@@ -61,8 +45,6 @@ SCRIPT_NAME="$(basename ${0})"
 #== usage functions ==#
 usage() { printf "Usage: "; head -${SCRIPT_HEADSIZE:-99} ${0} | grep -e "^#+" | sed -e "s/^#+[ ]*//g" -e "s/\${SCRIPT_NAME}/${SCRIPT_NAME}/g" ; }
 usagefull() { head -${SCRIPT_HEADSIZE:-99} ${0} | grep -e "^#[%+-]" | sed -e "s/^#[%+-]//g" -e "s/\${SCRIPT_NAME}/${SCRIPT_NAME}/g" ; }
-scriptinfo() { head -${SCRIPT_HEADSIZE:-99} ${0} | grep -e "^#-" | sed -e "s/^#-//g" -e "s/\${SCRIPT_NAME}/${SCRIPT_NAME}/g"; }
-
 
 ##################
 # Parse and verify command line options
@@ -87,10 +69,6 @@ while true; do
     case "$1" in
         -h|--help)
             usagefull
-            exit
-            ;;
-        -v|--version)
-            scriptinfo
             exit
             ;;
         -i|--input)
@@ -133,16 +111,6 @@ while true; do
             fi
             if [ z"${MANIFEST:0:1}" == "z-" ]; then
                echo $MANIFEST "Output directory was set with an option string"
-               usage
-               exit 2
-            fi 
-            shift 2
-            ;;
-        -s| --study)
-            STUDY="$2" 
-            STUDY="$(echo -e "${STUDY}" | tr -d '[[:space:]]')"
-            if [ z"${STUDY:0:1}" == "z-" ]; then
-               echo $STUDY "Output directory was set with an option string"
                usage
                exit 2
             fi 
@@ -225,7 +193,6 @@ fi
 echo "OUTPUT_VOL=${OUTPUT_DIR}" > .env
 echo "INPUT_VOL=${INPUT_DIR}" >> .env
 echo "MANIFEST=${MANIFEST}" >> .env
-echo "STUDY=${STUDY}" >> .env
 
 #########################
 # Run the docker-compose commands to bring the environment up
