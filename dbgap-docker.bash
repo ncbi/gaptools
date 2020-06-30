@@ -132,13 +132,13 @@ done
 # Verify up/down arguments were supplied properly
 ##################
 if [[ $# -ne 1 ]]; then
-    echo $'\n'"$0: incorrect options supplied"$'\n'
+    echo $'\n'"$0: Incorrect options supplied"$'\n'
     usage
     exit 4
 fi
 DSTATE=$1
 if ! [[ "${DSTATE}" =~ ^(up|down)$ ]]; then
-    echo $'\n'"$0: up or down are the only allowed arguments"$'\n'
+    echo $'\n'"$0: The allowed options are up or down"$'\n'
     usage
     exit 4
 fi
