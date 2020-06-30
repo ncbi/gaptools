@@ -75,12 +75,12 @@ while true; do
             INPUT_DIR="$2" 
             INPUT_DIR="$(echo -e "${INPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$INPUT_DIR" ]; then
-               echo $INPUT_DIR "please provide the input directory"
+               echo $INPUT_DIR "Please provide the input directory"
                usage
                exit 2
             fi
             if [ z"${INPUT_DIR:0:1}" == "z-" ]; then
-               echo $INPUT_DIR "please provide the input directory"
+               echo $INPUT_DIR "Please provide the input directory"
                usage
                exit 2
             fi
@@ -90,12 +90,12 @@ while true; do
             OUTPUT_DIR="$2" 
             OUTPUT_DIR="$(echo -e "${OUTPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$OUTPUT_DIR" ]; then
-               echo $OUTPUT_DIR "please provide the output directory"
+               echo $OUTPUT_DIR "Please provide the output directory"
                usage
                exit 2
             fi
             if [ z"${OUTPUT_DIR:0:1}" == "z-" ]; then
-               echo $OUTPUT_DIR "please provide the output directory"
+               echo $OUTPUT_DIR "Please provide the output directory"
                usage
                exit 2
             fi 
@@ -105,12 +105,12 @@ while true; do
             MANIFEST="$2" 
             MANIFEST="$(echo -e "${MANIFEST}" | tr -d '[[:space:]]')"
             if [ -z "$MANIFEST" ]; then
-               echo $MANIFEST "please provide full path to the manifest file"
+               echo $MANIFEST "Please provide full path to the manifest file"
                usage
                exit 2
             fi
             if [ z"${MANIFEST:0:1}" == "z-" ]; then
-               echo $MANIFEST "please provide full path to the manifest file"
+               echo $MANIFEST "Please provide full path to the manifest file"
                usage
                exit 2
             fi 
