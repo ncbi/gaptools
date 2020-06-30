@@ -49,8 +49,8 @@ usagefull() { head -${SCRIPT_HEADSIZE:-99} ${0} | grep -e "^#[%+-]" | sed -e "s/
 ##################
 # Parse and verify command line options
 ##################
-OPTIONS=hvt:i:o:m:s:
-LONGOPTS=help,version,input:,output:,type:,manifest:,study:
+OPTIONS=ht:i:o:m:
+LONGOPTS=help,input:,output:,manifest:
 
 # pass arguments only via   -- "$@"   to separate them correctly
 ! PARSED=$(getopt --options=$OPTIONS --longoptions=$LONGOPTS --name "$0" -- "$@")

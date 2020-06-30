@@ -20,7 +20,6 @@ services:
         env_file:
             - airflow-variables.env
         environment:
-            - STUDY=${STUDY}
             - MANIFEST=${MANIFEST}
         ports:
             - "8080:8080"
