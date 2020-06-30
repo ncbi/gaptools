@@ -75,12 +75,12 @@ while true; do
             INPUT_DIR="$2" 
             INPUT_DIR="$(echo -e "${INPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$INPUT_DIR" ]; then
-               echo $INPUT_DIR " input directory is a problem"
+               echo $INPUT_DIR "please provide the input directory"
                usage
                exit 2
             fi
             if [ z"${INPUT_DIR:0:1}" == "z-" ]; then
-               echo $INPUT_DIR " Looks like input directory was set with an option string"
+               echo $INPUT_DIR "please provide the input directory"
                usage
                exit 2
             fi
@@ -90,12 +90,12 @@ while true; do
             OUTPUT_DIR="$2" 
             OUTPUT_DIR="$(echo -e "${OUTPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$OUTPUT_DIR" ]; then
-               echo $OUTPUT_DIR "Output directory has problem"
+               echo $OUTPUT_DIR "please provide the output directory"
                usage
                exit 2
             fi
             if [ z"${OUTPUT_DIR:0:1}" == "z-" ]; then
-               echo $OUTPUT_DIR "Output directory was set with an option string"
+               echo $OUTPUT_DIR "please provide the output directory"
                usage
                exit 2
             fi 
@@ -105,12 +105,12 @@ while true; do
             MANIFEST="$2" 
             MANIFEST="$(echo -e "${MANIFEST}" | tr -d '[[:space:]]')"
             if [ -z "$MANIFEST" ]; then
-               echo $MANIFEST "Output directory has problem"
+               echo $MANIFEST "please provide full path to the manifest file"
                usage
                exit 2
             fi
             if [ z"${MANIFEST:0:1}" == "z-" ]; then
-               echo $MANIFEST "Output directory was set with an option string"
+               echo $MANIFEST "please provide full path to the manifest file"
                usage
                exit 2
             fi 
@@ -132,13 +132,13 @@ done
 # Verify up/down arguments were supplied properly
 ##################
 if [[ $# -ne 1 ]]; then
-    echo $'\n'"$0: options supplied or argument is incorrect."$'\n'
+    echo $'\n'"$0: incorrect options supplied"$'\n'
     usage
     exit 4
 fi
 DSTATE=$1
 if ! [[ "${DSTATE}" =~ ^(up|down)$ ]]; then
-    echo $'\n'"$0: up or down are the only allowed arguments."$'\n'
+    echo $'\n'"$0: up or down are the only allowed arguments"$'\n'
     usage
     exit 4
 fi
