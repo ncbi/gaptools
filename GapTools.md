@@ -1,5 +1,5 @@
 # GapTools
-The National Center for Biotechnology Information's [dbGaP archive](https://www.ncbi.nlm.nih.gov/gap/) has processed, archived and distributed genome scale datasets from over 1500 different studies comprised from data collected on over 2 million study participants (subjects) since 2007. In support of National Institutes of Health [Genomic Data Sharing policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/) and the emerging NIH data sharing ecosystem the NCBI has developed a QA/QC software tool named GapTools  to evaluate consistency of genome scale datasets. This tool is used to evaluate datasets prior to submission to a public archives, such as dbGaP. This software package uses the same code and therefore is consistent with the code for the internal dbGaP automated processing pipeline. The tool is intended to identify common inconsistencies that can delay processing/sharing of the data. The use of this tool and correcting any errors prior to submission will substantially reduce the time needed for dbGaP staff to process and release data. This tool is not designed for genomic analysis. GapTools is distributed as a docker image on Dockerhub.
+The National Center for Biotechnology Information's [dbGaP archive](https://www.ncbi.nlm.nih.gov/gap/) has processed, archived and distributed genome scale datasets from over 1500 different studies comprised from data collected on over 2 million study participants (subjects) since 2007. In support of National Institutes of Health [Genomic Data Sharing policy](https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/) and the emerging NIH data sharing ecosystem the NCBI has developed a QA/QC software tool named GapTools  to evaluate consistency of genome scale datasets. This tool is used to evaluate datasets prior to submission to public archives, such as dbGaP. This software package uses the same code and therefore is consistent with the code for the internal dbGaP automated processing pipeline. The tool is intended to identify common inconsistencies that can delay processing/sharing of the data. The use of this tool and correcting any errors prior to submission will substantially reduce the time needed for dbGaP staff to process and release data. This tool is not designed for genomic analysis. GapTools is distributed as a docker image on Dockerhub.
 
 #### Why Docker?
 GapTools uses Apache Airflow behind the scenes as the workflow orchestrator to perform all the validation tasks. Apache Airflow is a platform to programmatically author, schedule and monitor workflows. Workflows are authored as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes tasks on an array of workers while following the specified dependencies.    
@@ -25,11 +25,11 @@ The initial release of GapTools includes the functions to check the issues that 
 #### Required Files
 GapTools is designed to check core phenotype data files and genomic datasets in both [PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) format. To review the required files and their format for individual level data submission please see the [dbGaP submission guide](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/). 
 
-##### Metatdata file
+##### Metadata file
 
 This tool also requires as an input parameter, a json file with the metadata information about the files to be processed. The file has to be named `metadata.json`. 
 
-Here is a sample matadata file:
+Here is a sample `metadata.json` file:
 ```
 {
   "NAME": "1000 Genomes Public Study",
@@ -49,8 +49,8 @@ Here is a sample matadata file:
 
 The metadata file, at the very minimum, requires the following attributes:
 
-* A `Name` attribute that describes the study being processed
-* A `Files` attribute that contains information about the 2 required files:
+* A `NAME` attribute that describes the study being processed
+* A `FILES` attribute that contains information about the 2 required files:
     * `subject_consent_file`
     * `subject_sample_mapping_file`
 
