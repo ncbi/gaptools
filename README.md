@@ -1,5 +1,5 @@
 # GapTools
-dbGaP data validation tool. GapTools is distributed as a docker image on Dockerhub. See [GapTools.md](GapTools.md) for more information about the tool itself.
+dbGaP data validation tool. GapTools is distributed as a docker image on Dockerhub. See [GapTools.md](GapTools.md) for more information about the tool.
 
 ## Pre-requisites:
 
