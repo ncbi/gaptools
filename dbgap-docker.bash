@@ -209,5 +209,8 @@ if [ $DSTATE == "up" ]; then
    echo "./dbgap-docker.bash down"
    echo "to stop and delete the docker containers."
    echo ""
+   echo ""
+   echo "At the end of the workflow, the output files will be created under ${OUTPUT_DIR}."
+   echo ""
 fi
 
