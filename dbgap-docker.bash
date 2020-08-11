@@ -194,6 +194,36 @@ echo "OUTPUT_VOL=${OUTPUT_DIR}" > .env
 echo "INPUT_VOL=${INPUT_DIR}" >> .env
 echo "MANIFEST=${MANIFEST}" >> .env
 
+########################
+# fill fernet key
+########################
+env_file=airflow-variables.env
+# if not exists, then add
+grep '^FERNET_KEY=' "$env_file" > /dev/null
+if [ $? -ne 0  ]; then
+
+   python_code="from cryptography.fernet import Fernet; FERNET_KEY = Fernet.generate_key().decode(); print(FERNET_KEY); "
+   fernet_key=$(docker run -it --rm 'ncbi/gaptools:latest' /usr/local/bin/python -c "$python_code" )
+   if [ $? -ne 0 ]; then
+      echo "Cannot generate fernet key"
+      exit 2
+   fi
+
+   printf "\nFERNET_KEY=%s\n\n" "$fernet_key" >> "$env_file"
+
+fi
+
+#########################
+# check if fernet key is properly set
+#########################
+
+docker run -it --rm --env-file "$env_file" 'ncbi/gaptools:latest' /bin/bash -c "printenv | grep '^FERNET_KEY=' > /dev/null"
+if [ $? -ne 0 ]; then
+   echo "Cannot fill fernet key properly"
+   exit 2
+fi
+
+
 #########################
 # Run the docker-compose commands to bring the environment up
 #########################
