@@ -1,0 +1,13 @@
+{
+  "NAME": "Study with errors in Genotype files",
+  "FILES": [
+    {
+      "name": "SC.txt",
+      "type": "subject_consent_file"
+    },
+    {
+      "name": "SSM.txt",
+      "type": "subject_sample_mapping_file"
+    }
+  ]
+}
