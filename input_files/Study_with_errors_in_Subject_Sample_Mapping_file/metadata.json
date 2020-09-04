@@ -1,0 +1,13 @@
+{
+  "NAME": "Study with errors in Subject Sample Mapping file",
+  "FILES": [
+    {
+      "name": "SC.txt",
+      "type": "subject_consent_file"
+    },
+    {
+      "name": "Incorrect_SSM.txt",
+      "type": "subject_sample_mapping_file"
+    }
+  ]
+}
