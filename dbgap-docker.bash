@@ -10,7 +10,7 @@
 #+                     [up|down]
 #+
 #% DESCRIPTION
-#%    This script runs GapTools to validate data files
+#%    This script runs GaPTools to validate data files
 #%    to be submitted to dbGaP. It loads a docker-compose
 #%    file and runs required docker containers.
 #%
@@ -153,6 +153,22 @@ if [ $DSTATE == "down" ]; then
 fi
 
 ########################
+# Normalize paths
+########################
+
+function normalize_path {
+  path1="$1"
+  if [ "${path1:0:1}" != '/' -a "${path1:0:2}" != './' ] ; then
+    path1="./$path1"
+  fi
+  printf '%s' "$path1"
+}
+
+INPUT_DIR=$(normalize_path "$INPUT_DIR")
+OUTPUT_DIR=$(normalize_path "$OUTPUT_DIR")
+MANIFEST=$(normalize_path "$MANIFEST")
+
+########################
 # Validate that all options have been set
 ########################
 ERROR_TEXT=""
@@ -223,15 +239,43 @@ if [ $? -ne 0 ]; then
    exit 2
 fi
 
+#########################
+# Check to see if webserver container is up
+#########################
+docker_check() {
+   while IFS= read -r docker_line
+      do
+         ## look for Up on the gaptools worker container
+         if [[ ($docker_line =~ .*\/entrypoint\.sh\ we.*) &&  ($docker_line =~ .*\(healthy\).*) ]]; then
+            return 0
+         fi
+      done < <(docker ps)
+   return 1 
+}
 
 #########################
 # Run the docker-compose commands to bring the environment up
 #########################
 if [ $DSTATE == "up" ]; then
    docker-compose -f docker-compose-CeleryExecutor.yml up -d
+   i=0
+   while ! docker_check
+   do
+      i=$((i+1))
+      echo "Waiting for webserver to start... ${i} of 20"
+      if [[ $i == 20 ]]; then
+         echo "Timed out waiting for webserver to start"
+         echo "Check the docker container logs by executing the command \"docker logs [container_name]\""
+         echo "E.g. \"docker logs gaptools_webserver_1\""
+         echo 
+         exit 2
+      fi
+      sleep 10
+   done
+   
    echo ""
    echo "The airflow server has started on port 8080. Visit "
-   echo "http://<your_docker_host_ip>:8080/admin/airflow/graph?dag_id=GapTools"
+   echo "http://<your_docker_host_ip>:8080/admin/airflow/graph?dag_id=gaptools"
    echo "in your web browser to view the status."
    echo ""
    echo ""
@@ -243,4 +287,3 @@ if [ $DSTATE == "up" ]; then
    echo "At the end of the workflow, the output files will be created under ${OUTPUT_DIR}."
    echo ""
 fi
-
