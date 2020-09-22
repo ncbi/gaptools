@@ -257,6 +257,7 @@ docker_check() {
 # Run the docker-compose commands to bring the environment up
 #########################
 if [ $DSTATE == "up" ]; then
+   docker pull ncbi/gaptools:latest
    docker-compose -f docker-compose-CeleryExecutor.yml up -d
    i=0
    while ! docker_check
