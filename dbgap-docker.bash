@@ -156,7 +156,7 @@ fi
 # Normalize paths
 ########################
 
-function normalize_path {
+function normalize_path() {
   path1="$1"
   if [ "${path1:0:1}" != '/' -a "${path1:0:2}" != './' ] ; then
     path1="./$path1"
