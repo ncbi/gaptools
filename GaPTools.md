@@ -89,27 +89,25 @@ The URL opens the embedded Airflow UI web console that displays the status of th
 ![](images/gaptools_dag.png)
 
  #### Airflow DAG Task Definitions
-* `Checking_Metadata_SC_SSM_Files` - Validates the structure of the metadata.json file. It also checks the metadata file has all the required attributes.
-* `Create_GenoTelemetry` - Creates a telemetry file for subsequent tasks to refer to.
-* `QC_Pedigree` - Validates the Pedigree file (if present) for any errors. Does nothing if Pedigree file is not provided.
-* `QC_SubjectSampleMapping` - Validates the Subject Sample Mapping file for any errors. 
-* `QC_SubjectConsent`- Validates the Subject Consent file for any errors.
-* `QC_SSM_vs_Geno` - Compares the Subject Sample Mapping and Geno Telemetry files and reports any errors.
-* `QC_Pedigree_vs_SC` - Compares the Pedigree and Subject Consent files and reports any errors. Does nothing if the Pedigree file is not provided.
-* `QC_SSM_SC_Validation` - Compares the Subject Consent and Subject Sample Mapping files and reports any errors.
-* `Notify_SC_Pedigree_QC_Results` - Generates a consolidated report of the results of comparing the Subject Consent and Pedigree files. Does nothing if the Pedigree file is not provided.
-* `Notify_SSM_SC_QC_Results` - Generates a consolidated report of the results of comparing the Subject Sample Mapping and the Subject Consent files.
-* `CHOICE_Is_ID_Error_detected` - Checks if any ID errors are detected from the above validation tasks.
-* `Notify_GenoFile_QC_Fail_Results` - Generates a consolidated report if any ID errors are detected. Proceeds directly to the `EndOfWorkflow` task.
-* `TASK_TO_Process_FP_Files` - Executed when no ID errors are detected.
-* `TASK_Check_Extract_Vcf_to_Special_Location` - Extract VCF files to a location in the output directory.
-* `TASK_Check_Extract_Plink_to_Special_Location` - Extract PLINK files to a location in the output directory.
-* `Task_Merge_GenoMatrix_Fragments` - Consolidate VCF and PLINK files whenever it is possible.
-* `Update_fam_files` - Update PLINK FAM files with sex information from the Subject Consent file.
-* `Run_GRAF_Sex` - Execute GRAF command to produce sex report.
-* `Run_GRAF_Relationship` - Execute GRAF command to produce relationship report.
-* `Notify_After_Geno_Files_Processing` - Generates a consolidated report of the processing of Geno files.
-* `EndOfWorkflow` - Marks the end of the workflow.
+* `CHECK_METADATA_FILES` - Validates the structure of the metadata.json file. It also checks the metadata file has all the required attributes.
+* `CREATE_GENO_TELEMETRY` - Creates a telemetry file for subsequent tasks to refer to.
+* `VALIDATE_PEDIGREE` - Validates the Pedigree file (if present) for any errors. Does nothing if Pedigree file is not provided.
+* `VALIDATE_SSM` - Validates the Subject Sample Mapping file for any errors.
+* `VALIDATE_SC`- Validates the Subject Consent file for any errors.
+* `VALIDATE_SSM_VS_GENO` - Compares the Subject Sample Mapping and Geno Telemetry files and reports any errors.
+* `VALIDATE_PEDIGREE_VS_SC` - Compares the Pedigree and Subject Consent files and reports any errors. Does nothing if the Pedigree file is not provided.
+* `VALIDATE_SSM_VS_SC` - Compares the Subject Consent and Subject Sample Mapping files and reports any errors.
+* `IS_ID_ERROR_DETECTED` - Checks if any ID errors are detected from the above validation tasks.
+* `PROCESS_GENO_FILES` - Executed when no ID errors are detected.
+* `EXTRACT_VCF_FILES` - Extract VCF files to a location in the output directory.
+* `EXTRACT_PLINK_FILES` - Extract PLINK files to a location in the output directory.
+* `MERGE_GENO_MATRIX_FRAGMENTS` - Consolidate VCF and PLINK files whenever it is possible.
+* `UPDATE_FAM_FILES` - Update PLINK FAM files with sex information from the Subject Consent file.
+* `RUN_GRAF_SEX` - Execute GRAF command to produce sex report.
+* `RUN_GRAF_RELATIONSHIP` - Execute GRAF command to produce relationship report.
+* `END_OF_VALIDATIONS` - Marks the end of the validations.
+* `REPORT_VALIDATION_RESULTS` - Generates a consolidated report of the processing of Geno files.
+
 
 #### Output Files
 At the end of all the validation tasks, GaPTools generates reports in the specified output directory. It produces consolidated reports written to a file in an email format under the `<output_dir>/client_emails/studies/` directory.
