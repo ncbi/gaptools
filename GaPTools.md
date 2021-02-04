@@ -112,7 +112,7 @@ The URL opens the embedded Airflow UI web console that displays the status of th
 #### Output Files
 At the end of all the validation tasks, GaPTools generates reports in the specified output directory. It produces consolidated reports written to a file in an email format under the `<output_dir>/client_emails/studies/` directory.
 
-GaPTools also generates individual reports in JSON format for every task in the Airflow DAG. These individual reports are created under `<output_dir>/geno/client_message/` and `<output_dir>/pheno/data/qc/` directories.
+GaPTools also generates individual reports in JSON format for every task in the Airflow DAG. These individual reports are created under the `<output_dir>/client_messages/` directory.
 
 #### Included Sample Studies
 GaPTools includes three sample studies to demonstrate the functionality of the tool. 
