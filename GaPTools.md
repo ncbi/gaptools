@@ -43,6 +43,8 @@ The initial release of GaPTools includes the functions to check the issues that 
     * Report with all reported and computed Sex values produced by GRAF.
     * Report of computed relationships produced by GRAF.
 
+The full list of errors detected by the system can be found here:[Validation Error Codes](https://www.ncbi.nlm.nih.gov/gap/public_utils/messages/)
+
 #### Required Files
 GaPTools is designed to check core phenotype data files and genomic datasets in both [PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) format. 
 To review the required files and their format for individual level data submission please see the [dbGaP submission guide](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/).
@@ -135,7 +137,3 @@ PMID: 28609482
 Chang CC, Chow CC, Tellier LC, Vattikuti S, Purcell SM, Lee JJ.
 Gigascience. 2015 Feb 25;4:7. doi: 10.1186/s13742-015-0047-8. eCollection 2015.
 PMID: 25722852
-
-
-
-
