@@ -219,7 +219,7 @@ grep '^FERNET_KEY=' "$env_file" > /dev/null
 if [ $? -ne 0  ]; then
 
    python_code="from cryptography.fernet import Fernet; FERNET_KEY = Fernet.generate_key().decode(); print(FERNET_KEY); "
-   fernet_key=$(docker run -it --rm 'ncbi/gaptools:latest' /usr/local/bin/python -c "$python_code" )
+   fernet_key=$(docker run -it --rm 'ncbi/gaptools:latest' /usr/bin/python3 -c "$python_code" )
    if [ $? -ne 0 ]; then
       echo "Cannot generate fernet key"
       exit 2
