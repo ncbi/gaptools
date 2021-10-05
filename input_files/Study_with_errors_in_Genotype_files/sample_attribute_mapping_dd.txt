@@ -1,0 +1,5 @@
+VARNAME	VARDESC	TYPE
+SAMPLE_ID	De-identified Sample ID	string
+BODY_SITE	Body site where sample was collected	string
+ANALYTE_TYPE	Analyte Type	string
+IS_TUMOR	Tumor status	encoded values

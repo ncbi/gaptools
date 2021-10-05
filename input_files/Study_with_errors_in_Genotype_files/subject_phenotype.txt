@@ -1,0 +1,2945 @@
+SUBJECT_ID	age_onset	sex	race	Statin 	Statin dose	Sx post-therapy (mos)	CK	Pain	Weakness		
+HG00310	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18557	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00189	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20278	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03074	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01515	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18966	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01395	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01522	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01384	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18537	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03259	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02860	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19197	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01985	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03238	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19452	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02012	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00127	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01092	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19004	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA18566	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00174	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00343	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20809	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG00263	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01075	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG00864	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG02165	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02389	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01489	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA12156	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA19248	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03499	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA18574	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03063	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03294	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02186	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG00690	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03139	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA20342	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA20298	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19707	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02970	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19062	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03118	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00258	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19257	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02759	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA07347	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19355	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01462	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19401	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01670	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG00105	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20769	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19129	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01912	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA18499	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19098	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01177	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02449	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18871	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG00379	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA18757	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00596	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03057	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00178	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA18510	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA11992	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20818	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03304	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01357	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01509	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03558	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG00139	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG02804	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01620	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG00109	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19474	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01676	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01816	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA20760	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00096	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01506	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00324	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG00280	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03109	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19439	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01863	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA18969	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01694	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00766	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01885	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19011	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19009	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19038	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02401	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00736	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20509	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG00155	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA18489	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18593	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01378	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01852	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02667	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA20828	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19922	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19099	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19092	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02113	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA20759	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01121	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02230	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00653	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA20753	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02073	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA19334	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00117	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA20798	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG02322	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19026	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG02621	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA12889	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03045	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01405	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19312	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02643	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18961	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00236	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02574	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01259	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG00708	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA20524	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02053	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01089	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA12815	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19210	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19024	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19235	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01775	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG00325	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA18632	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01868	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG01326	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02772	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA20515	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02734	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18526	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19457	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA20862	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA20772	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01048	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02256	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19435	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA18611	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA07048	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00275	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01602	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00410	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00404	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01705	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA11930	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02035	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20535	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03382	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00629	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA18978	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00475	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03539	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20805	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01598	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03457	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02493	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA19319	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA07000	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA21108	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01678	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG00366	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18953	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01862	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG00123	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19372	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02545	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19908	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01632	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01550	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA18916	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01107	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03193	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA20506	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00271	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01771	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02597	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00557	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01440	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03563	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03081	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00537	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01060	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00330	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG00458	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00150	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA18634	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01108	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA20530	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA19035	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02057	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01365	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01861	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02979	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01097	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01137	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02561	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03024	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG00311	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01498	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03473	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG00671	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01474	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18620	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00345	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01171	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA18945	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02878	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01802	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03433	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01392	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00622	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02471	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02084	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00244	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02139	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03025	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20332	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01303	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19152	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01595	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02082	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA18984	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA12046	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01527	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19108	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03100	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00160	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18876	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA11918	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG00173	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20764	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01188	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG00251	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00372	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01699	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02571	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00133	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA20910	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20502	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18864	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01867	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03124	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG02364	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02407	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA11840	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01849	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19446	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03485	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01848	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01842	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19066	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19834	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18505	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19394	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA18940	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG00442	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA12383	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02817	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02383	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19082	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00448	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG01110	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00383	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02075	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18582	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA19027	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03342	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00380	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01257	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00759	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA11829	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19117	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02181	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG00344	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19175	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02836	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01052	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03052	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01890	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01067	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00101	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA19328	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA18991	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01615	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01612	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18644	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00232	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02325	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01351	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA18960	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03401	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00732	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19087	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03380	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA12006	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02221	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA18910	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02690	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA12873	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00253	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19428	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01403	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19378	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01447	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19012	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01628	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00553	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG01878	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00186	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA19160	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00956	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18602	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA20778	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA18981	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00533	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00122	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA20289	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG00742	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03268	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02402	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00513	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA12750	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00350	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00675	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG00148	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA18628	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03479	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA20795	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00136	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA20127	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02020	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01431	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA18977	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG00982	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00319	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA18544	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03270	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02332	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19204	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01603	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02642	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02923	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA20320	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02611	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02010	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18610	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03086	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02589	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA18542	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19792	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19213	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18615	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18522	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02570	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20812	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03557	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02374	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00689	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03567	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02360	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00598	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00360	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00699	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA20761	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01986	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19376	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00097	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02138	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02231	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA19384	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18624	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03196	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03258	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00336	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02522	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02694	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02981	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19315	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03419	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01029	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03077	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02703	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA18954	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20822	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02536	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03351	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA07357	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA12342	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01082	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19324	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG01813	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA12283	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02840	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02953	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00464	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA18933	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02887	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00281	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01766	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG00238	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01069	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01383	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03449	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02154	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01164	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA18745	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA12413	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19649	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00254	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03132	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19914	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA20886	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18561	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA12718	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03049	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01504	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01872	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02811	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01277	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA19658	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02585	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03172	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02190	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19078	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00701	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01801	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00338	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG00472	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01248	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20355	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20519	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG00116	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01119	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02052	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19084	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA18907	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19113	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01672	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA18858	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG00611	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03039	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19137	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01857	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01281	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19057	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20542	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00651	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02763	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02651	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01479	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18640	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00110	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00267	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02220	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01761	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA20802	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00274	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01251	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00590	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01623	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00130	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01356	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18548	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01686	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03280	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02232	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00129	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA11994	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20514	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18638	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03437	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19463	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03452	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA19399	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02508	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01880	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG00112	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01325	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01162	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00327	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG00313	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02399	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19438	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03241	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03432	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18545	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01864	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG00364	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00323	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00334	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00376	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02947	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA18749	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00306	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02069	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18498	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19010	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19096	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20510	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01853	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA12004	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19923	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01510	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02629	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG01122	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02541	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA18870	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA18592	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19007	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02439	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01896	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02013	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20276	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG00118	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01531	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA20799	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA19393	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01374	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03117	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01094	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01756	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA12890	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02974	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01465	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18631	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02623	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02187	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19669	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03311	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02666	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00276	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02355	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19701	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG00342	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01079	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01077	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02722	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19684	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20348	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20340	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00181	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02308	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG00146	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01247	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01507	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03064	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA18998	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG00844	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA12762	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19247	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA12761	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19351	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA19451	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03291	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02164	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00285	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA20808	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA20520	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00614	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01182	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19916	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19031	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG02143	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19077	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01844	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02239	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA18591	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01198	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20503	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA19346	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18567	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01344	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03572	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19003	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18558	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00256	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00476	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01669	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20296	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02944	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02982	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18995	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01170	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02386	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19119	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00445	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03297	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01058	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01537	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00125	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20541	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA18917	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00355	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA18643	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19060	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03469	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00272	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19360	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20527	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02061	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03079	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA18565	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02131	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA18508	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00177	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03240	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02757	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA11843	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01085	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02380	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01308	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA19206	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG00240	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01850	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02339	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA18504	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00187	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA18942	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03027	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00536	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19320	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19025	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02610	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA20815	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01305	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02586	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA18617	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00672	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19200	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02484	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01456	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01806	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19149	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01133	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19091	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA06994	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03538	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03385	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19185	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03040	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00261	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02282	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18967	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19085	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA19225	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02895	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA12045	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02715	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01260	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01393	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA18517	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03127	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00631	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02577	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA20758	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02408	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA19835	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01789	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01438	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03111	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19434	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA12347	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00707	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03352	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA18533	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03445	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA07037	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02505	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19456	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01047	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01412	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01812	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02799	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01679	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18612	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02549	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00140	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00851	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00419	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02882	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02151	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20773	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02681	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA20362	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA12273	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG00638	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01599	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18878	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18528	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19121	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01098	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03767	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02736	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02040	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00106	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03157	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA12812	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01770	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00252	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18627	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01631	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03583	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA18999	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02238	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02330	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02603	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19331	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03619	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00559	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02624	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA12005	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00978	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18562	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA20351	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA12777	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA19088	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00108	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01513	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02223	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA20783	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02351	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19059	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20890	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00443	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19020	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18912	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18963	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA12776	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18982	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02111	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02108	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02450	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA18532	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02879	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19379	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01879	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20321	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03484	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG00674	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02485	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00654	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01414	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20126	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA18970	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03515	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG00318	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01500	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03391	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00881	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA18549	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA18740	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01101	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01613	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA19159	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03267	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01617	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02679	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00137	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02255	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00428	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19065	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA12272	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA18616	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA18541	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19679	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01886	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01889	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02182	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA18994	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20765	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG01847	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03123	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01066	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20359	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19056	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02655	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA11894	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01286	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA18987	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02976	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03488	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA18599	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA19214	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03166	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19107	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA12830	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00371	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02153	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA18553	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01284	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02367	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03103	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00141	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG00157	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00737	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01746	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02064	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00406	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01205	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA18974	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02816	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01841	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02215	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01790	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG01840	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02891	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02283	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02343	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19198	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA12717	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19471	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA20757	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02076	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19081	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA18934	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01396	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA11830	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20534	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA11931	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19074	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18877	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00102	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01626	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03455	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA20536	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA20287	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02837	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG00382	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01111	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01944	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA12400	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01250	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00115	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01139	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02382	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02087	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA18964	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01765	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03055	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01704	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01779	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03209	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG00731	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00257	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02396	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG00592	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA19143	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00337	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02029	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03575	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19648	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00268	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00349	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02497	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19070	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG00182	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA18941	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02420	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00449	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03133	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02810	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00239	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02649	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA19239	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03446	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03112	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00245	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01800	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03028	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19625	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01131	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01858	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00451	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA20581	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA19037	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01342	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02144	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA19338	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02315	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02314	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA12282	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01073	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00551	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02023	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00640	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02180	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01083	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01757	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03439	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19308	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA18639	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20762	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01785	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02756	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG00288	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02476	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02768	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01488	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01464	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18990	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00581	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG00613	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA20318	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00180	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00378	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02851	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01956	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03556	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19316	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18536	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02429	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19445	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA11893	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA18606	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19794	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03298	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03410	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19466	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02952	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA20787	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02406	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA18959	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01605	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01808	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01190	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00623	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01455	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02465	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19429	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02721	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03367	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG00329	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG02375	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02922	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03195	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00233	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA18949	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03048	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01366	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA12155	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA12340	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19327	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19385	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02353	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01028	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA12749	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02521	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01432	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA18523	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00099	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00599	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG00335	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20821	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01102	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02130	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA19184	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01556	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00358	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02137	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19116	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02699	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02309	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02700	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01624	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02121	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03354	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01375	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01811	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01684	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01926	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02546	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA19437	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01051	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01142	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02323	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03199	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01596	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03046	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00473	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01894	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA19207	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA12760	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01070	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20850	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00234	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA18957	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02557	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01673	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03135	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03096	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01174	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA06989	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03061	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03578	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA20356	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02502	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02896	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20521	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02580	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00566	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02047	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18988	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG00524	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00111	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20755	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA20538	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00560	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01747	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA18923	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18530	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA20587	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA18636	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00353	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00260	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02697	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03370	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02595	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00143	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA19147	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA12748	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00421	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG00698	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00284	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01702	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01254	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02594	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03078	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19475	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01323	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03085	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01362	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA12813	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19375	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01269	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02946	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03478	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00407	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03428	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20540	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01444	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00269	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18648	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA20807	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG00246	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02648	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA18609	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02477	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00531	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01272	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02086	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18502	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00626	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19172	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA18621	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02051	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02983	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA12489	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19131	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00332	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01161	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18572	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02371	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00375	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01134	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA19222	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02070	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03246	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG00119	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00452	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03464	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA12874	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03295	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02537	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01486	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA12275	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03765	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18943	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA11881	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19652	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02654	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19042	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18879	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01200	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02017	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02391	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02014	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03313	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01810	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00341	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19017	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19086	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA10847	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18597	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03388	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18986	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00693	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01437	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02409	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA18993	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01519	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00326	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02854	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03126	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA18747	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA18559	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03115	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01525	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03105	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00114	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03518	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA19703	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03363	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00273	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01064	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA19054	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA20766	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01846	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01360	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03162	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20513	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20585	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20339	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA19818	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02798	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03397	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02140	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03225	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00131	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00103	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18546	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00543	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA12154	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA18637	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18971	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19076	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG00619	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00632	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02136	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18868	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00381	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18577	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01618	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01873	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19904	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00362	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA20872	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01865	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18939	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18979	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02511	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03066	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA18980	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01512	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01183	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01860	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00656	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01607	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02943	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA18519	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02461	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA12546	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19443	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00608	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG00739	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03624	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01786	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA18507	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG00315	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00158	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03451	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02442	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01697	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA20814	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18856	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA18596	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18646	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20752	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01709	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA20511	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02184	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA20589	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19403	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02179	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00662	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00264	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18952	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18608	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03159	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20826	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00625	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01302	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG00357	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02852	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18613	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA18618	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01086	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03548	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03084	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01354	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA19455	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02317	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02884	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03521	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA12716	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20801	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01031	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG02433	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02141	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA10851	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA19072	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01398	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00607	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02152	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03073	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03095	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02941	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02337	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA12842	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19390	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03442	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00328	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18915	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01168	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02479	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02128	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02562	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02513	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02031	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02233	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03054	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19472	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02716	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18555	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19321	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01795	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA12348	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01797	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01536	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19655	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18625	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA20517	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01762	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20531	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02081	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA20525	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00584	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA07056	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00554	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00278	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01140	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20796	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19141	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01768	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02395	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA20528	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03470	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02769	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA18539	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01784	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA19909	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03369	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01938	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG00478	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01630	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19209	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01989	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19002	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01859	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19430	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA18642	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA18535	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02060	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18962	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02808	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01501	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA19917	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18486	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01072	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01680	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02050	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19055	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02006	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA18525	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01459	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA20544	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02678	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03237	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19189	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03303	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01600	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01799	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03108	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02881	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA20811	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20804	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01055	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00583	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG00290	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00641	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01805	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03168	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA20317	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01112	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20763	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19461	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01807	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02588	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01777	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03202	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03476	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18552	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00308	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01530	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG00145	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20858	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19449	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA11933	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01869	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03091	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19068	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01958	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03376	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00879	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA19080	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03514	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01191	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02814	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA06984	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19678	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03097	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01389	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02156	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02067	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA12878	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01204	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00403	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18550	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02888	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA18946	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA12249	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA18951	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA18972	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02385	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19030	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01242	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01521	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA18571	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA19064	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA19171	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20504	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19467	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20756	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA19711	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01625	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19350	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01104	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03460	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18570	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA18975	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18516	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01377	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA18748	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA11831	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19397	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00729	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02496	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19095	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20294	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18874	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00107	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02554	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01608	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19238	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19317	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02489	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA12775	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01710	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19380	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19019	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA20774	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00369	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00183	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01413	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA19089	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA20770	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02107	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03121	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03394	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA12044	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01855	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA19984	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG00684	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG00346	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG00176	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA19309	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19006	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20768	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03175	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03279	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA18983	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19900	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA12827	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18630	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG00525	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02634	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA20507	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02122	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03060	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02398	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA18908	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01176	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20785	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA11932	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00138	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA18989	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00436	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02455	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03058	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00457	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00282	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02490	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA11832	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01105	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01061	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02737	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA06986	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02058	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA19773	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19201	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA19651	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02645	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02134	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00243	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01345	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00422	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18511	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00530	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03472	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA20819	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA20775	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02646	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03300	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02419	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA19036	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02464	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA19462	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01675	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00542	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG01551	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA18647	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG00179	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02185	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01606	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19083	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02861	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19725	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19058	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA18520	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01275	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20533	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02410	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02085	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19750	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20543	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01088	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02095	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00151	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19130	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19144	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02582	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG01804	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02805	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03461	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA19374	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18968	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA18948	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00120	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA12414	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01173	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01113	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02470	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA11892	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA18622	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19041	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA18619	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01461	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20588	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19436	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02078	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03343	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA20904	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01390	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01049	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00593	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG01815	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19190	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02028	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03198	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01148	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02676	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01372	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01685	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00717	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA18881	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01583	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00235	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19982	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01597	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03136	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA12287	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20754	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02054	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00867	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG00580	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01130	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA20790	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG01668	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01271	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02384	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00262	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02501	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00734	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03372	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA19223	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG00692	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02127	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19779	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03634	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01491	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01773	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA18531	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01776	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA18563	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA12058	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG00142	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02048	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03190	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00565	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02771	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA20357	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA18965	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02839	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19819	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG00728	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00634	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02733	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00367	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA12144	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01359	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19395	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03565	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20586	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19075	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01695	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18867	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19377	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA18635	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01619	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01968	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19440	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01353	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02281	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG01874	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02977	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02558	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00657	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19102	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00437	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA19731	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA12751	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02026	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA12829	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19473	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19404	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA19023	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA20299	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03436	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01883	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02870	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02373	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA18645	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01708	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03129	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01866	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA18543	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA18853	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA20810	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA20274	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA11995	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01791	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00237	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01095	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00309	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00610	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02675	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG01125	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01851	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00373	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02462	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00620	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18595	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20281	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02392	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01311	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA20512	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02318	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00190	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01497	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03163	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03114	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA18488	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02390	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA11919	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA19332	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02855	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03366	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20334	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02628	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02224	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18633	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03625	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA18560	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA20522	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01809	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20767	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01187	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19921	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01781	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01518	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01516	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG00154	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19043	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02116	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19713	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02971	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03069	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03212	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA11920	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01845	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03517	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03072	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20806	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02682	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA18573	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02604	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG00126	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19307	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01707	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19256	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03559	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00479	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01914	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19318	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19676	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00339	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA20505	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20582	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00595	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19700	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02166	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03577	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01063	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20539	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02819	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19000	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02016	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG00132	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19236	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01796	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02427	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02691	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01988	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG00113	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02394	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02760	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA20518	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03169	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01124	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02583	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01783	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA18538	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA18626	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02236	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA20529	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01485	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00463	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19431	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20291	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00255	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00705	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00704	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20881	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01136	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG00277	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01312	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03458	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA18973	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03520	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00231	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01253	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02807	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG00185	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02142	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG00589	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18992	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA18997	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01468	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01700	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01054	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA19005	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20813	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03378	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01990	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA18641	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA19780	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01798	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA18861	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02512	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20803	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20797	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG00121	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA19920	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19138	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA06985	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG00266	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19153	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03224	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA20771	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03301	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02019	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG00351	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00149	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18976	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02635	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00650	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA19118	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG01593	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01528	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19067	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03547	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00356	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA18956	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02307	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01334	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19468	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA18944	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02568	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02088	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02009	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02885	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02613	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG00265	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG00446	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02284	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02356	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02178	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG00637	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19114	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA12814	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03160	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA12043	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG00259	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20800	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA12234	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01870	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02025	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01915	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA12843	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02072	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02938	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19391	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02379	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03571	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02334	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20516	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA18947	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02133	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG00242	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18579	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19314	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02494	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02032	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA12341	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA18614	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG00331	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20532	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02702	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA20282	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01524	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01492	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03130	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19454	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00365	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01256	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA20827	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA12286	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA19323	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01441	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01167	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01197	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02188	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA19079	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02481	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02445	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA12763	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA18873	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA19093	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA20346	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20786	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00409	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA12872	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA18564	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02155	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01767	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA12778	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG00556	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02079	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01610	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01080	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01503	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02555	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02620	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19001	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA07051	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG00628	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA18534	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19913	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01046	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03247	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20870	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA20832	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19146	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02397	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA20508	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02049	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02272	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19090	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG00368	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA12828	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19347	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00534	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA19383	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA18909	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03271	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01871	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00683	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01280	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA18629	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01817	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02573	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA20792	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19901	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01682	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02973	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03189	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG00500	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02250	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01843	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA18985	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02890	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA18547	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03088	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19704	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19310	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01882	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03265	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG00663	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03099	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02813	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03082	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA18865	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA18623	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG00320	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG00304	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG00740	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20864	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA18603	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20412	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG00171	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG00159	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG00743	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03120	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG00188	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02219	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG00361	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19764	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG00250	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02614	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG00128	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01241	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01402	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG00321	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA19448	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01794	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02235	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA18605	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA18924	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA18501	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA19712	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA18950	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03511	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02968	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02820	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG00384	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA12399	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG00100	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19028	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA12003	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19063	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01149	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01341	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01348	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01350	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01363	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01369	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01435	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01443	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG01494	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01495	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG01565	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG01566	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG01571	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG01572	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG01577	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG01578	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG01586	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG01589	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG01892	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG01893	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG01917	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG01918	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG01920	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG01921	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG01923	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG01924	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG01927	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG01932	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG01933	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG01935	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG01936	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG01939	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG01941	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG01942	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG01945	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG01947	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG01948	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG01950	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG01951	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG01953	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG01954	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG01961	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG01965	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG01967	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG01970	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG01971	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG01973	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG01974	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG01976	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG01977	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG01979	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG01980	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG01982	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG01991	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG01992	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG01997	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02002	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02003	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02008	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02089	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02090	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02102	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02104	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02105	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02146	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02147	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02150	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02252	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02253	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02259	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02260	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02262	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02265	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02266	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02271	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG02274	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG02275	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG02277	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG02278	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG02285	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG02286	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG02291	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG02292	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG02298	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG02299	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG02301	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG02304	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG02312	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG02345	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG02348	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG02425	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG02491	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG02600	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG02601	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG02652	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG02657	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG02658	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG02660	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG02661	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG02684	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG02685	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG02687	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG02688	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG02696	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG02724	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG02725	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG02727	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG02728	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG02731	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG02774	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG02775	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG02778	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG02780	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG02783	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG02784	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG02786	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG02787	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG02789	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG02790	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG02792	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG02793	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03006	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03007	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03009	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03012	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03015	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03016	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03018	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03019	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03021	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03022	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03228	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03229	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03234	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03235	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03490	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03491	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03585	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03589	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03593	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03594	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03595	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03598	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03600	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03603	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03604	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03607	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03611	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03615	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03616	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03629	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03631	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03636	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03640	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03642	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03643	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03644	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03645	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03646	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03649	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03652	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03653	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03660	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03663	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03667	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03668	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03672	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03673	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03679	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03680	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03681	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03684	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03685	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03686	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03687	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03689	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03690	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03691	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03692	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03693	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03694	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03695	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03696	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03697	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03698	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03702	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03703	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03705	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03706	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03708	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03709	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03711	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03713	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03714	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03716	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03717	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03718	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03720	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03722	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03727	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03729	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03730	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03731	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03733	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03736	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03738	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03740	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03741	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03742	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03743	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03744	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03745	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03746	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03750	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03752	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03753	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03754	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03755	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03756	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03757	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03760	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03762	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03770	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03771	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03772	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03773	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03774	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03775	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03777	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03778	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03779	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03780	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03781	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03782	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03784	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03785	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03786	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03787	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03788	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03789	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03790	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03792	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03793	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03796	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03800	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03802	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03803	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03805	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03808	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03809	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03812	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03814	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03815	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03817	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03821	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03823	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03824	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03826	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03829	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03830	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03832	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03833	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03836	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03837	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03838	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03844	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03846	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03848	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03849	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03850	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03851	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03854	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03856	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03857	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03858	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03861	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03862	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03863	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03864	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03866	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03867	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03868	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03869	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03870	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03871	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03872	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03873	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03874	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03875	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03882	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03884	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03885	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03886	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03887	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03888	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03890	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03894	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03895	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03896	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03897	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03898	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03899	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03900	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03902	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03905	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03907	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03908	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG03910	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG03911	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG03913	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG03914	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG03916	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG03917	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG03919	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG03920	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG03922	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG03925	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG03926	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG03928	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG03931	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG03934	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG03937	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG03940	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG03941	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG03943	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG03944	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG03945	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG03947	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG03949	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG03950	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG03951	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG03953	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG03955	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG03960	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG03963	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG03965	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG03967	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG03968	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG03969	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG03971	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG03973	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG03974	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG03976	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG03977	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG03978	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG03985	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG03986	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG03989	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG03990	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG03991	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG03995	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG03998	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG03999	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG04001	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG04002	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG04003	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG04006	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG04014	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG04015	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG04017	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG04018	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG04019	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG04020	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG04022	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG04023	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG04025	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG04026	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG04029	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG04033	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG04035	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG04038	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG04039	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG04042	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG04047	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG04054	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG04056	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG04059	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG04060	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG04061	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG04062	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG04063	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG04070	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG04075	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG04076	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG04080	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG04090	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG04093	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG04094	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG04096	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG04098	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG04099	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG04100	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG04106	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG04107	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG04118	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+HG04131	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+HG04134	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+HG04140	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+HG04141	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+HG04144	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+HG04146	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+HG04152	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+HG04153	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+HG04155	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+HG04156	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+HG04158	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+HG04159	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+HG04161	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+HG04162	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+HG04164	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+HG04171	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+HG04173	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+HG04176	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+HG04177	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+HG04180	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+HG04182	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+HG04183	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+HG04185	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+HG04186	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+HG04188	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+HG04189	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+HG04194	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+HG04195	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+HG04198	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+HG04200	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+HG04202	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+HG04206	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+HG04209	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+HG04210	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+HG04211	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+HG04212	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+HG04214	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+HG04216	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+HG04219	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+HG04222	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+HG04225	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+HG04227	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+HG04229	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+HG04235	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+HG04238	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+HG04239	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA19654	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA19657	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA19661	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA19663	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA19664	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA19670	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA19681	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA19682	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA19716	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA19717	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA19719	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA19720	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA19722	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA19723	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA19726	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA19728	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA19729	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA19732	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA19734	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA19735	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA19740	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA19741	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA19746	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA19747	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA19749	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA19752	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA19755	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA19756	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA19758	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA19759	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA19761	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA19762	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA19770	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA19771	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA19774	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA19776	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA19777	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA19782	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA19783	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA19785	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA19786	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA19788	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA19789	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA19795	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA20314	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA20845	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA20846	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA20847	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA20849	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA20851	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA20852	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA20853	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA20854	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA20856	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA20859	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA20861	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA20863	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA20866	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA20867	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA20868	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA20869	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA20874	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA20875	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA20876	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA20877	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA20878	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA20882	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA20884	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA20885	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA20887	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA20888	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA20889	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA20891	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA20892	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA20894	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA20895	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA20896	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA20897	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA20899	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA20900	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA20901	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA20902	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA20903	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA20905	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA20906	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA20908	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA20911	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA21086	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA21087	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA21088	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+NA21089	51	Female	Caucasian	atorvastatin	10	72	112	no	yes		
+NA21090	48	Female	Caucasian	atorvastatin	10	0.75	nd	yes	no		
+NA21091	36	Female	Caucasian	atorvastatin	80	0	9000	no	no		
+NA21092	56	Female	Caucasian	atorvastatin	10	7	2515	yes	yes		
+NA21093	47	Male	Caucasian	rosuvastatin	20	168	1000	yes	yes		
+NA21094	43	Male	Caucasian	fluvastatin	nd	8	1800	yes	yes		
+NA21095	53	Female	Caucasian	atorvastatin	40	24	2000	yes	yes		
+NA21097	60	Male	Caucasian	simvastatin	20	60	"25,000"	yes	yes		
+NA21098	63	Male	Caucasian	atorvastatin	40	60	1800	yes	no		
+NA21099	39	Male	Caucasian	cerivastatin	8	12	"400,000"	yes	yes		
+NA21100	53	Male	Caucasian	atorvastatin	10	120	3000	yes	no		
+NA21101	56	Female	Caucasian	pravastatin	40	48	"6,356"	yes	yes		
+NA21102	60	Female	Caucasian	atorvastatin	20	36	3000	yes	yes		
+NA21103	40	Male	Caucasian	atorvastatin	20	60	"1,068"	yes	yes		
+NA21104	40	Male	Caucasian	atorvastatin	nd	24	"35,000"	yes	yes		
+NA21105	52	Female	Caucasian	atorvastatin	10	108	"15,000"	yes	yes		
+NA21106	53	Male	Caucasian	pravastatin	20	72	2723	yes	no		
+NA21107	58	Male	Caucasian	atorvastatin	20	24	1400	yes	yes		
+NA21109	59	Male	Caucasian	atorvastatin	20	60	5325	yes	yes		
+NA21110	54	Male	Caucasian	simvastatin	80	24	8000	yes	yes		
+NA21111	62	Male	Caucasian	rosuvastatin	10	12	1500	yes	yes		
+NA21112	42	Female	Caucasian	atorvastatin	20	60	9700	no	yes		
+NA21113	64	Male	Caucasian	gemfibrozil	600	24	1629	yes	yes		
+NA21114	55	Male	Caucasian	lovastatin	40	36	1500	yes	yes		
+NA21115	56	Male	Caucasian	simvastatin	20	23	1500	yes	no		
+NA21116	58	Male	Caucasian	rosuvastatin	40	70	2651	yes	yes		
+NA21117	52	Male	Caucasian	atorvastatin	10	72	52	yes	yes		
+NA21118	87	Male	Caucasian	simvastatin	20	24	nd	yes	yes		
+NA21119	51	Female	Caucasian	atorvastatin	40	36	normal	yes	yes		
+NA21120	76	Female	Caucasian	rosuvastatin	nd	2	nd	yes	yes		
+NA21122	44	Male	Caucasian	atorvastatin	10	120	1250	yes	yes		
+NA21123	70	Male	Caucasian	simvastatin	20	60	nd	yes	no		
+NA21124	48	Male	Caucasian	atorvastatin	10	6	8000	yes	yes		
+NA21125	90	Female	Caucasian	simvastatin	5	none	nd	no	no		
+NA21126	44	Male	Caucasian	atorvastatin	40	24	350-600	yes	yes		
+NA21127	48	Male	Caucasian	rosuvastatin	10	72	normal	yes	yes		
+NA21128	84	Female	Caucasian	atorvastatin	nd	0	nd	yes	no		
+NA21129	59	Female	Caucasian	simvastatin	10	none	nd	no	no		
+NA21130	41	Male	Caucasian	cerivastatin	10	96	450	yes	no		
+NA21133	74	Female	Caucasian	rosuvastatin	5	6	nd	yes	yes		
+NA21135	73	Male	Caucasian	pravastatin	20	60	nd	yes	no		
+NA21137	38	Male	Caucasian	cerivastatin	nd	24	nd	yes	yes		
+NA21141	75	Male	Caucasian	atorvastatin	20	12	nd	yes	no		
+NA21142	63	Male	Caucasian	atorvastatin	40	0	nd	yes	no		
+NA21143	42	Male	Caucasian	rosuvastatin	20	72	normal	yes	no		
+NA21144	62	Female	Caucasian	rosuvastatin	5	0	2100	no	no		
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											

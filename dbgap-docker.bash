@@ -276,7 +276,7 @@ if [ $DSTATE == "up" ]; then
    
    echo ""
    echo "The airflow server has started on port 8080. Visit "
-   echo "http://<your_docker_host_ip>:8080/admin/airflow/graph?dag_id=gaptools"
+   echo "http://<your_docker_host_ip>:8080"
    echo "in your web browser to view the status."
    echo ""
    echo ""

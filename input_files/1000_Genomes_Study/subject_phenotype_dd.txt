@@ -1,0 +1,11 @@
+VARNAME	VARDESC
+SUBJECT_ID	De-identified Subject ID
+age_onset	Disease onset age
+sex	Gender of participant
+race	Race of participant
+Statin	Type of statin
+Statin dose	Daily statin dose (mg)
+Sx post-therapy (mos)	Time in months that symptoms continued following cessation of therapy
+CK	creatine kinase levels
+Pain	muscle pain
+Weakness	weakness

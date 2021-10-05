@@ -7,6 +7,23 @@ prior to submission to public archives, such as dbGaP. This software package use
 The tool is intended to identify common inconsistencies that can delay processing/sharing of the data. The use of this tool and correcting any errors prior to submission will substantially 
 reduce the time needed for dbGaP staff to process and release data. This tool is not designed for genomic analysis. GaPTools is distributed as a docker image on Dockerhub.
 
+## Updated in version V1.5
+* Basic format checks
+    * Input file concordance check with datasets and data dictionary files
+* QC Checks
+    * Determines if Subject Consent Data Dictionary and Dataset are provided
+    * Determines if Genotype files are provided
+    * Phenotype and Sample Attribute Checks
+* Input Files
+    * Dataset and Data Dictionary files are supported in text (.txt) and Excel (.xlsx) formats.
+    * Subject Consent Data Dictionary
+    * Subject Consent Dataset
+    * Subject Sample Mapping Data Dictionary
+    * Phenotype Dataset
+    * Phenotype Data Dictionary
+    * Sample Attribute Dataset
+    * Sample Attribute Data Dictionary
+
 #### Why Docker?
 GaPTools uses Apache Airflow behind the scenes as the workflow orchestrator to perform all the validation tasks. Apache Airflow is a platform to programmatically author, schedule and monitor workflows. 
 Workflows are authored as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes tasks on an array of workers while following the specified dependencies.
@@ -26,10 +43,16 @@ The initial release of GaPTools includes the functions to check the issues that 
     * File Formats are consistent with dbGaP submission guide with regard to
         * Required columns
         * Illegal characters
+    * Input file concordance check with datasets and data dictionary files
+        * Column headers in dataset are listed in data dictionary
+        * Data dictionary files have descriptions of all variables
 * Subject and Sample ID checks
     * Subject IDs from SSM are present in SC file.
     * Pedigree file IDs (Subject Mother and Father columns) are present in SC file.
     * Sample IDs listed in genotype files (PLINK or .VCF) are present in in SSM file.
+* Phenotype and Sample Attribute Checks
+    * Subject IDs in Phenotype datasets are a subset of the Subject IDs in Subject Consent file
+    * Sample IDs in Sample Attribute datasets are a subset of the Sample IDs in Subject Sample Mapping file
 * Pedigree file
     * Subjects listed as Twins have same Mother and Father.
     * Mother IDs are female and Father IDss are male in pedigree file.
@@ -45,9 +68,23 @@ The initial release of GaPTools includes the functions to check the issues that 
 
 The full list of errors detected by the system can be found here:[Validation Error Codes](https://www.ncbi.nlm.nih.gov/gap/public_utils/messages/)
 
-#### Required Files
-GaPTools is designed to check core phenotype data files and genomic datasets in both [PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) format. 
-To review the required files and their format for individual level data submission please see the [dbGaP submission guide](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/).
+#### Input Files
+GaPTools is designed to check core phenotype data files and genomic datasets in both PLINK and VCF format.  
+Datasets and Data Dictionary files are supported in text (.txt) and Excel (.xlsx) formats.  To review the 
+required files and their format for individual level data submission please see the [dbGaP submission guide](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/).
+
+* Subject Consent Dataset
+* Subject Consent Data Dictionary
+* Subject Sample Mapping Dataset
+* Subject Sample Mapping Data Dictionary
+* Genotype Files ([PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format)
+* Phenotype Dataset
+* Phenotype Data Dictionary
+* Sample Attribute Dataset
+* Sample Attribute Data Dictionary
+ 
+In the current version only Subject Consent Dataset and Data Dictionary are required.  Input files are configured with metadata file described below.
+
 
 ##### Metadata file
 This tool also requires as an input parameter, a json file with the metadata information about the files to be processed. The file has to be named `metadata.json`. 
@@ -62,12 +99,35 @@ Here is a sample `metadata.json` file:
       "type": "subject_consent_file"
     },
     {
+      "name": "1000_Genomes_SC_DD.xlsx",
+      "type": "subject_consent_data_dictionary_file"
+    },
+    {
       "name": "1000_Genomes_SSM.txt",
       "type": "subject_sample_mapping_file"
+    },
+    {
+      "name": "1000_Genomes_SSM_DD.xlsx",
+      "type": "subject_sample_mapping_data_dictionary_file"
+    },
+    {
+      "name": "sample_attribute_mapping.txt",
+      "type": "sample_attributes"
+    },
+    {
+      "name": "sample_attribute_mapping_dd.txt",
+      "type": "sample_attributes_dd"
+    },
+    {
+      "name": "subject_phenotype.txt",
+      "type": "phenotype_ds"
+    },
+    {
+      "name": "subject_phenotype_dd.txt",
+      "type": "phenotype_dd"
     }
   ]
 }
-
 ``` 
 
 The metadata file, at the very minimum, requires the following attributes:
@@ -90,15 +150,32 @@ The URL opens the embedded Airflow UI web console that displays the status of th
 
 ![](images/gaptools_dag.png)
 
- #### Airflow DAG Task Definitions
 * `CHECK_METADATA_FILES` - Validates the structure of the metadata.json file. It also checks the metadata file has all the required attributes.
+* `IS_SC_DS_AND_DD_SUBMITTED` - Determines if Subject Consent Dataset and Data Dictionary are provided.
 * `CREATE_GENO_TELEMETRY` - Creates a telemetry file for subsequent tasks to refer to.
-* `VALIDATE_PEDIGREE` - Validates the Pedigree file (if present) for any errors. Does nothing if Pedigree file is not provided.
-* `VALIDATE_SSM` - Validates the Subject Sample Mapping file for any errors.
-* `VALIDATE_SC`- Validates the Subject Consent file for any errors.
-* `VALIDATE_SSM_VS_GENO` - Compares the Subject Sample Mapping and Geno Telemetry files and reports any errors.
-* `VALIDATE_PEDIGREE_VS_SC` - Compares the Pedigree and Subject Consent files and reports any errors. Does nothing if the Pedigree file is not provided.
-* `VALIDATE_SSM_VS_SC` - Compares the Subject Consent and Subject Sample Mapping files and reports any errors.
+* `IS_PEDIGREE_DS_AND_DD_SUBMITTED` - Determines if Pedigree Dataset and Data Dictionary are provided.
+* `VALIDATE_PEDIGREE_DS` - Validates Pedigree Dataset provided.
+* `VALIDATE_PEDIGREE_DD` - Validates provided Pedigree Dataset file.
+* `VALIDATE_PEDIGREE_DS_VS_DD` - Validates Pedigree Dataset against Pedigree Data Dictionary provided.
+* `IS_SSM_DS_AND_DD_SUBMITTED` - Determines if Subject Sample Mapping Dataset and Data Dictionary are provided.
+* `ARE_GENO_FILES_SUBMITTED` - Determines if Genotype files are provided.
+* `VALIDATE_SSM_DS` - Validates Subject Sample Mapping Dataset provided.
+* `VALIDATE_SSM_DD` - Validates Subject Sample Mapping Data Dictionary provided.
+* `VALIDATE_SSM_DS_VS_DD` - Validates Subject Sample Mapping Dataset against Subject Sample Mapping Data Dictionary provided.
+* `VALIDATE_SC_DS` - Validates Subject Consent Dataset provided.
+* `VALIDATE_SC_DD` - Validates Subject Consent Data Dictionary provided.
+* `VALIDATE_SC_DS_VS_DD` - Validates Subject Sample Consent Dataset against Subject Consent Data Dictionary provided.
+* `VALIDATE_SSM_DS_VS_SC_DS` - Validates Subject Sample Mapping Dataset against Subject Consent Dataset provided.
+* `VALIDATE_SSM_DS_VS_GENO` - Validates Subject Sample Mapping Dataset against Geno Telemetry files provided.
+* `VALIDATE_PEDIGREE_DS_VS_SC_DS` - Validates Pedigree Dataset against Subject Consent Dataset provided.
+* `VALIDATE_SUBJECT_PHENOTYPE_DS` - Validates Subject Phenontype Dataset provided.
+* `VALIDATE_SUBJECT_PHENOTYPE_DD` - Validates Subject Phenontype Data Dictionary provided.
+* `VALIDATE_SUBJECT_PHENOTYPE_DS_VS_DD` - Validates Subject Phenotype Dataset against Subject Phenotype Data Dictionary provided.
+* `VALIDATE_SAMPLE_ATTRIBUTE_DS` - Validates Sample Attribute Dataset provided.
+* `VALIDATE_SAMPLE_ATTRIBUTE_DD` - Validates Sample Attribute Data Dictionary provided.
+* `VALIDATE_SAMPLE_ATTRIBUTE_DS_VS_DD` - Validates Sample Attribute Dataset against Subject Attribute Data Dictionary provided.
+* `VALIDATE_SC_DS_VS_SUBJECT_PHENOTYPE_DS` - Validates Subject Consent Dataset against Subject Phenotype Dataset provided.
+* `VALIDATE_SSM_DS_VS_SAMPLE_ATTRIBUTE_DS` - Validates Subject Sample Mapping against Sample Attribute Dataset provided.
 * `IS_ID_ERROR_DETECTED` - Checks if any ID errors are detected from the above validation tasks.
 * `PROCESS_GENO_FILES` - Executed when no ID errors are detected.
 * `EXTRACT_VCF_FILES` - Extract VCF files to a location in the output directory.
@@ -113,6 +190,9 @@ The URL opens the embedded Airflow UI web console that displays the status of th
 
 #### Output Files
 At the end of all the validation tasks, GaPTools generates reports in the specified output directory. It produces consolidated reports written to a file in an email format under the `<output_dir>/client_emails/studies/` directory.
+
+The web interface has a link to the final report generated for execution of the data validation tool. The most recent report is at the top and they are organized by date.
+![](images/reports.png) 
 
 GaPTools also generates individual reports in JSON format for every task in the Airflow DAG. These individual reports are created under the `<output_dir>/client_messages/` directory.
 

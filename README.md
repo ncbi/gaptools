@@ -63,10 +63,10 @@ Once GaPTools is setup, to execute it on the included sample study, run the belo
 ./dbgap-docker.bash -i ./input_files/1000_Genomes_Study/ -o ./output_files/1000_Genomes_Study -m ./input_files/1000_Genomes_Study/metadata.json up
 ```
 
-GaPTools uses Apache Airflow behind the scenes as the workflow orchestrator to perform all the validation tasks. You can check the status of the task execution by accessing Airflow web interface at:
+GaPTools uses Apache Airflow behind the scenes as the workflow orchestrator to perform all the validation tasks. To view the validation results of the dbGaP validation tool, browse to the following URL:
 
 ```
-http://<docker_host_ip>:8080/admin/airflow/graph?dag_id=gaptools
+http://<your_docker_host_ip>:8080
 ```  
 
 At the end of the workflow, the output files will be created under the specified output directory.

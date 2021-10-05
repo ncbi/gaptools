@@ -11,7 +11,7 @@ services:
         ports:
             - "5432"
 
-    webserver:
+    airflow-web:
         image: 'ncbi/gaptools:latest'
         restart: always
         depends_on:
@@ -22,7 +22,7 @@ services:
         environment:
             - MANIFEST=${MANIFEST}
         ports:
-            - "8080:8080"
+            - "8080"
         command: webserver
         volumes:
             - type: bind
@@ -55,7 +55,7 @@ services:
         image: 'ncbi/gaptools:latest'
         restart: always
         depends_on:
-            - webserver
+            - airflow-web
         env_file:
             - airflow-variables.env
         command: scheduler
@@ -78,3 +78,15 @@ services:
         env_file:
             - airflow-variables.env
         command: worker
+
+    gaptools-ui:
+        image: 'ncbi/gaptools-ui:latest'
+        restart: always
+        depends_on: 
+            - airflow-web
+        volumes:
+            - type: bind
+              source: ${OUTPUT_VOL}
+              target: /code/static/gap/pipeline
+        ports:
+            - "8080:8080"

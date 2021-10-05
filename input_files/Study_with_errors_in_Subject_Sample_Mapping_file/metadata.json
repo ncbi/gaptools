@@ -6,8 +6,32 @@
       "type": "subject_consent_file"
     },
     {
+      "name": "SC_DD.xlsx",
+      "type": "subject_consent_data_dictionary_file"
+    },
+    {
       "name": "Incorrect_SSM.txt",
       "type": "subject_sample_mapping_file"
+    },
+    {
+      "name": "SSM_DD.xlsx",
+      "type": "subject_sample_mapping_data_dictionary_file"
+    },
+    {
+      "name": "sample_attribute_mapping.txt",
+      "type": "sample_attributes"
+    },
+    {
+      "name": "sample_attribute_mapping_dd.txt",
+      "type": "sample_attributes_dd"
+    },
+    {
+      "name": "subject_phenotype.txt",
+      "type": "phenotype_ds"
+    },
+    {
+      "name": "subject_phenotype_dd.txt",
+      "type": "phenotype_dd"
     }
   ]
 }
