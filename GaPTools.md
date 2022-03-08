@@ -70,14 +70,14 @@ The full list of errors detected by the system can be found here:[Validation Err
 
 #### Input Files
 GaPTools is designed to check core phenotype data files and genomic datasets in both PLINK and VCF format.  
-Datasets and Data Dictionary files are supported in text (.txt) and Excel (.xlsx) formats.  To review the 
+Datasets and Data Dictionary files are supported in text (.txt) and Excel (.xlsx) formats. Current software is limited to phenotype datasets that have a simple primary key of either Subject_id or Sample_id. Phenotype datasets with complex keys are not supported in this version.  To review the 
 required files and their format for individual level data submission please see the [dbGaP submission guide](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/).
 
 * Subject Consent Dataset
 * Subject Consent Data Dictionary
 * Subject Sample Mapping Dataset
 * Subject Sample Mapping Data Dictionary
-* Genotype Files ([PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format)
+* Genotype Files ([PLINK](https://www.cog-genomics.org/plink/1.9/formats) and [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format))
 * Phenotype Dataset
 * Phenotype Data Dictionary
 * Sample Attribute Dataset
