@@ -78,7 +78,7 @@ __-i__ -- path to the input files for your study
 
 __-o__ -- path where output files should be generated
 
-__-m__ -- path to the manifest file, which has to be named `metadata.json`, for your study
+__-m__ -- path to the manifest file for your study
 
 ## Stop Docker Containers
 
