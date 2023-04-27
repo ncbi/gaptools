@@ -74,11 +74,11 @@ At the end of the workflow, the output files will be created under the specified
 
 To use GaPTools for your study, modify the above command and pass as input parameters:
 
-__-i__ -- path to the input files for your study
+- __`-i`__ -- path to the input files for your study
 
-__-o__ -- path where output files should be generated
+- __`-o`__ -- path where output files should be generated
 
-__-m__ -- path to the manifest file for your study
+- __`-m`__ -- path to the manifest file for your study
 
 ## Stop Docker Containers
 
@@ -88,4 +88,4 @@ Once your study is processed, run the below command to stop the GaPTools service
 ```
 
 ## Contact
-If you have any questions or to report any issues, please contact us at: [dbgap-help@ncbi.nlm.nih.gov](dbgap-help@ncbi.nlm.nih.gov)
+If you have any questions or to report any issues, please contact us at: [dbgap-help@ncbi.nlm.nih.gov](mailto:dbgap-help@ncbi.nlm.nih.gov)
