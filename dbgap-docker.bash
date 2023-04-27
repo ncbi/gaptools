@@ -5,7 +5,7 @@
 #================================================================
 #% SYNOPSIS
 #+    ${SCRIPT_NAME} [-h] [-i, --input [input directory]]
-#+                     [-o, --output [output directory]] 
+#+                     [-o, --output [output directory]]
 #+                     [-m, --manifest [manifest file]]
 #+                     [up|down]
 #+
@@ -16,7 +16,7 @@
 #%
 #%
 #% OPTIONS
-#%    -i, --input                   Input directory containing the 
+#%    -i, --input                   Input directory containing the
 #%                                  data files to be validated.
 #%    -o, --output                  Output directory
 #%    -m, --manifest                Manifest file with metadata
@@ -31,6 +31,9 @@
 #%    docker
 #%    docker-compose
 #%
+#% NOTES
+#%    macOS and other BSD-based systems do not support long options (--help, etc)
+#%    Use the short option equivalents (-i, -o, -m, -h)
 #%
 #================================================================
 # END_OF_HEADER
@@ -53,12 +56,22 @@ OPTIONS=ht:i:o:m:
 LONGOPTS=help,input:,output:,manifest:
 
 # pass arguments only via   -- "$@"   to separate them correctly
-! PARSED=$(getopt --options=$OPTIONS --longoptions=$LONGOPTS --name "$0" -- "$@")
+if [[ "$OSTYPE" == "darwin"* ]]; then
+   # macOS uses the BSD getopt, which does not support long options.
+   ! PARSED=$(getopt $OPTIONS "$@")
+else
+   ! PARSED=$(getopt --options=$OPTIONS --longoptions=$LONGOPTS --name "$0" -- "$@")
+fi
+
 if [[ ${PIPESTATUS[0]} -ne 0 ]]; then
     # e.g. return value is 1
     #  then getopt has complained about wrong arguments to stdout
     echo "Wrong number/type of arguments"
     usage
+    if [[ "$OSTYPE" == "darwin"* ]]; then
+        # macOS uses the BSD getopt, which does not support long options.
+        echo "WARNING:  On macOS:  long options (e.g. '--help') are not supported."
+    fi
     exit 2
 fi
 # read getopt output to handle the quoting:
@@ -72,7 +85,7 @@ while true; do
             exit
             ;;
         -i|--input)
-            INPUT_DIR="$2" 
+            INPUT_DIR="$2"
             INPUT_DIR="$(echo -e "${INPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$INPUT_DIR" ]; then
                echo $INPUT_DIR "Please provide the input directory"
@@ -84,10 +97,10 @@ while true; do
                usage
                exit 2
             fi
-            shift 2 
+            shift 2
             ;;
         -o|--output)
-            OUTPUT_DIR="$2" 
+            OUTPUT_DIR="$2"
             OUTPUT_DIR="$(echo -e "${OUTPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$OUTPUT_DIR" ]; then
                echo $OUTPUT_DIR "Please provide the output directory"
@@ -98,11 +111,11 @@ while true; do
                echo $OUTPUT_DIR "Please provide the output directory"
                usage
                exit 2
-            fi 
+            fi
             shift 2
             ;;
         -m| --manifest)
-            MANIFEST="$2" 
+            MANIFEST="$2"
             MANIFEST="$(echo -e "${MANIFEST}" | tr -d '[[:space:]]')"
             if [ -z "$MANIFEST" ]; then
                echo $MANIFEST "Please provide full path to the manifest file"
@@ -113,7 +126,7 @@ while true; do
                echo $MANIFEST "Please provide full path to the manifest file"
                usage
                exit 2
-            fi 
+            fi
             shift 2
             ;;
         --)
@@ -250,7 +263,7 @@ docker_check() {
             return 0
          fi
       done < <(docker ps)
-   return 1 
+   return 1
 }
 
 #########################
@@ -268,12 +281,12 @@ if [ $DSTATE == "up" ]; then
          echo "Timed out waiting for webserver to start"
          echo "Check the docker container logs by executing the command \"docker logs [container_name]\""
          echo "E.g. \"docker logs gaptools_webserver_1\""
-         echo 
+         echo
          exit 2
       fi
       sleep 10
    done
-   
+
    echo ""
    echo "The airflow server has started on port 8080. Visit "
    echo "http://<your_docker_host_ip>:8080"
