@@ -63,22 +63,32 @@ Once GaPTools is setup, to execute it on the included sample study, run the belo
 ./dbgap-docker.bash -i ./input_files/1000_Genomes_Study/ -o ./output_files/1000_Genomes_Study -m ./input_files/1000_Genomes_Study/metadata.json up
 ```
 
-GaPTools uses Apache Airflow behind the scenes as the workflow orchestrator to perform all the validation tasks. To view the validation results of the dbGaP validation tool, browse to the following URL:
+GaPTools uses [Apache Airflow](https://airflow.apache.org/) behind the scenes as the workflow orchestrator to perform all the validation tasks. To view the validation results of the dbGaP validation tool, browse to the following URL:
 
 ```
 http://<your_docker_host_ip>:8080
 ```  
 
+If you are running this locally on a workstation, this can often be found at http://localhost:8080. 
+
+
 At the end of the workflow, the output files will be created under the specified output directory.
+
 ## Usage
 
 To use GaPTools for your study, modify the above command and pass as input parameters:
 
-- __`-i`__ -- path to the input files for your study
+- __`-i path/to/INPUT_DIR`__ -- path to the input files for your study (may also use `--input [...]` on Linux OS's)
 
-- __`-o`__ -- path where output files should be generated
+- __`-o path/to/OUTPUT_DIR`__ -- path where output files should be generated (may also use `--output [...]` on Linux OS's)
 
-- __`-m`__ -- path to the manifest file for your study
+- __`-m path/to/metadata.json`__ -- path to the manifest file for your study (may also use `--manifest [...]` on Linux OS's)
+
+- __`-h`__ -- print full usage information at the command line (may also use `--help` on Linux OS's)
+ 
+### Note on macOS
+
+On macOS, only the short versions of the command line options are supported.  (`-i`, `-o`, `-m`, `-h`)
 
 ## Stop Docker Containers
 
