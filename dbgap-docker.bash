@@ -11,7 +11,7 @@
 #+
 #% DESCRIPTION
 #%    This script runs GaPTools to validate data files
-#%    to be submitted to dbGaP. It loads a docker-compose
+#%    to be submitted to dbGaP. It loads a Docker Compose
 #%    file and runs required docker containers.
 #%
 #%
@@ -141,6 +141,16 @@ while true; do
     esac
 done
 
+if docker-compose version 2>&1 > /dev/null ; then
+   DOCKER_COMPOSE_COMMAND="docker-compose"
+elif docker compose version 2>&1 > /dev/null ; then
+   DOCKER_COMPOSE_COMMAND="docker compose"
+else
+   echo "Docker Compose not found"
+   usage
+   exit 2
+fi
+
 ##################
 # Verify up/down arguments were supplied properly
 ##################
@@ -157,11 +167,11 @@ if ! [[ "${DSTATE}" =~ ^(up|down)$ ]]; then
 fi
 
 #########################
-# Run the docker-compose commands to bring the environment down
+# Run the $DOCKER_COMPOSE_COMMAND commands to bring the environment down
 # Skips the rest of the validation and exit the script
 #########################
 if [ $DSTATE == "down" ]; then
-   docker-compose -f docker-compose-CeleryExecutor.yml down
+   $DOCKER_COMPOSE_COMMAND -f docker-compose-CeleryExecutor.yml down
    exit
 fi
 
@@ -217,7 +227,7 @@ if [ ! -f "$MANIFEST" ]; then
 fi
 
 ########################
-# Create a .env file to be used by docker-compose
+# Create a .env file to be used by $DOCKER_COMPOSE_COMMAND
 ########################
 echo "OUTPUT_VOL=${OUTPUT_DIR}" > .env
 echo "INPUT_VOL=${INPUT_DIR}" >> .env
@@ -267,11 +277,11 @@ docker_check() {
 }
 
 #########################
-# Run the docker-compose commands to bring the environment up
+# Run the $DOCKER_COMPOSE_COMMAND commands to bring the environment up
 #########################
 if [ $DSTATE == "up" ]; then
    docker pull ncbi/gaptools:latest
-   docker-compose -f docker-compose-CeleryExecutor.yml up -d
+   $DOCKER_COMPOSE_COMMAND -f docker-compose-CeleryExecutor.yml up -d
    i=0
    while ! docker_check
    do
