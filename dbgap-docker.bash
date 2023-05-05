@@ -141,7 +141,7 @@ while true; do
     esac
 done
 
-if docker-compose version 2>&1 > /dev/null ; then
+if command -v docker-compose > /dev/null ; then
    DOCKER_COMPOSE_COMMAND="docker-compose"
 elif docker compose version 2>&1 > /dev/null ; then
    DOCKER_COMPOSE_COMMAND="docker compose"
