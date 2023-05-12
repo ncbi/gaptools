@@ -5,18 +5,18 @@
 #================================================================
 #% SYNOPSIS
 #+    ${SCRIPT_NAME} [-h] [-i, --input [input directory]]
-#+                     [-o, --output [output directory]]
+#+                     [-o, --output [output directory]] 
 #+                     [-m, --manifest [manifest file]]
 #+                     [up|down]
 #+
 #% DESCRIPTION
 #%    This script runs GaPTools to validate data files
-#%    to be submitted to dbGaP. It loads a Docker Compose
+#%    to be submitted to dbGaP. It loads a docker-compose
 #%    file and runs required docker containers.
 #%
 #%
 #% OPTIONS
-#%    -i, --input                   Input directory containing the
+#%    -i, --input                   Input directory containing the 
 #%                                  data files to be validated.
 #%    -o, --output                  Output directory
 #%    -m, --manifest                Manifest file with metadata
@@ -31,9 +31,6 @@
 #%    docker
 #%    docker-compose
 #%
-#% NOTES
-#%    macOS and other BSD-based systems do not support long options (--help, etc)
-#%    Use the short option equivalents (-i, -o, -m, -h)
 #%
 #================================================================
 # END_OF_HEADER
@@ -56,22 +53,12 @@ OPTIONS=ht:i:o:m:
 LONGOPTS=help,input:,output:,manifest:
 
 # pass arguments only via   -- "$@"   to separate them correctly
-if [[ "$OSTYPE" == "darwin"* ]]; then
-   # macOS uses the BSD getopt, which does not support long options.
-   ! PARSED=$(getopt $OPTIONS "$@")
-else
-   ! PARSED=$(getopt --options=$OPTIONS --longoptions=$LONGOPTS --name "$0" -- "$@")
-fi
-
+! PARSED=$(getopt --options=$OPTIONS --longoptions=$LONGOPTS --name "$0" -- "$@")
 if [[ ${PIPESTATUS[0]} -ne 0 ]]; then
     # e.g. return value is 1
     #  then getopt has complained about wrong arguments to stdout
     echo "Wrong number/type of arguments"
     usage
-    if [[ "$OSTYPE" == "darwin"* ]]; then
-        # macOS uses the BSD getopt, which does not support long options.
-        echo "WARNING:  On macOS:  long options (e.g. '--help') are not supported."
-    fi
     exit 2
 fi
 # read getopt output to handle the quoting:
@@ -85,7 +72,7 @@ while true; do
             exit
             ;;
         -i|--input)
-            INPUT_DIR="$2"
+            INPUT_DIR="$2" 
             INPUT_DIR="$(echo -e "${INPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$INPUT_DIR" ]; then
                echo $INPUT_DIR "Please provide the input directory"
@@ -97,10 +84,10 @@ while true; do
                usage
                exit 2
             fi
-            shift 2
+            shift 2 
             ;;
         -o|--output)
-            OUTPUT_DIR="$2"
+            OUTPUT_DIR="$2" 
             OUTPUT_DIR="$(echo -e "${OUTPUT_DIR}" | tr -d '[[:space:]]')"
             if [ -z "$OUTPUT_DIR" ]; then
                echo $OUTPUT_DIR "Please provide the output directory"
@@ -111,11 +98,11 @@ while true; do
                echo $OUTPUT_DIR "Please provide the output directory"
                usage
                exit 2
-            fi
+            fi 
             shift 2
             ;;
         -m| --manifest)
-            MANIFEST="$2"
+            MANIFEST="$2" 
             MANIFEST="$(echo -e "${MANIFEST}" | tr -d '[[:space:]]')"
             if [ -z "$MANIFEST" ]; then
                echo $MANIFEST "Please provide full path to the manifest file"
@@ -126,7 +113,7 @@ while true; do
                echo $MANIFEST "Please provide full path to the manifest file"
                usage
                exit 2
-            fi
+            fi 
             shift 2
             ;;
         --)
@@ -140,16 +127,6 @@ while true; do
             ;;
     esac
 done
-
-if command -v docker-compose > /dev/null ; then
-   DOCKER_COMPOSE_COMMAND="docker-compose"
-elif docker compose version 2>&1 > /dev/null ; then
-   DOCKER_COMPOSE_COMMAND="docker compose"
-else
-   echo "Docker Compose not found"
-   usage
-   exit 2
-fi
 
 ##################
 # Verify up/down arguments were supplied properly
@@ -167,11 +144,11 @@ if ! [[ "${DSTATE}" =~ ^(up|down)$ ]]; then
 fi
 
 #########################
-# Run the $DOCKER_COMPOSE_COMMAND commands to bring the environment down
+# Run the docker-compose commands to bring the environment down
 # Skips the rest of the validation and exit the script
 #########################
 if [ $DSTATE == "down" ]; then
-   $DOCKER_COMPOSE_COMMAND -f docker-compose-CeleryExecutor.yml down
+   docker-compose -f docker-compose-CeleryExecutor.yml down
    exit
 fi
 
@@ -227,7 +204,7 @@ if [ ! -f "$MANIFEST" ]; then
 fi
 
 ########################
-# Create a .env file to be used by $DOCKER_COMPOSE_COMMAND
+# Create a .env file to be used by docker-compose
 ########################
 echo "OUTPUT_VOL=${OUTPUT_DIR}" > .env
 echo "INPUT_VOL=${INPUT_DIR}" >> .env
@@ -273,15 +250,15 @@ docker_check() {
             return 0
          fi
       done < <(docker ps)
-   return 1
+   return 1 
 }
 
 #########################
-# Run the $DOCKER_COMPOSE_COMMAND commands to bring the environment up
+# Run the docker-compose commands to bring the environment up
 #########################
 if [ $DSTATE == "up" ]; then
    docker pull ncbi/gaptools:latest
-   $DOCKER_COMPOSE_COMMAND -f docker-compose-CeleryExecutor.yml up -d
+   docker-compose -f docker-compose-CeleryExecutor.yml up -d
    i=0
    while ! docker_check
    do
@@ -291,12 +268,12 @@ if [ $DSTATE == "up" ]; then
          echo "Timed out waiting for webserver to start"
          echo "Check the docker container logs by executing the command \"docker logs [container_name]\""
          echo "E.g. \"docker logs gaptools_webserver_1\""
-         echo
+         echo 
          exit 2
       fi
       sleep 10
    done
-
+   
    echo ""
    echo "The airflow server has started on port 8080. Visit "
    echo "http://<your_docker_host_ip>:8080"
